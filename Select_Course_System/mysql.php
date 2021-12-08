@@ -1,6 +1,6 @@
 <?php
-$servername = "rm-bp166r5sz2f6k01vnso.mysql.rds.aliyuncs.com";
-$username = "malabis";
-$password = "18283287216*love";
-$dbname = "selectcourse";
+$servername = "";
+$username = "";
+$password = "";
+$dbname = "";
 $con = new mysqli($servername,$username,$password,$dbname);
